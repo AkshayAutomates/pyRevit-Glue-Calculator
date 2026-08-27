@@ -94,6 +94,8 @@ Calculate 10% Allowance
      ↓
 Gross Glue Requirement
 ```
+---
+
 ## 📐 Glue Calculation
 
 For applicable connections, the tool calculates:
@@ -110,6 +112,7 @@ Total Net Glue
       =
 Gross Total Glue Required
 
+---
 ## 🏢 BIM Automation Use Case
 
 This project demonstrates how information already available inside a BIM model can be used for automated construction quantity calculations.
@@ -125,7 +128,7 @@ Quantity Calculation
      ↓
 Material Requirement
 ```
-
+---
 ## 🛠️ Technologies
 
 🏗️ Autodesk Revit
@@ -134,6 +137,7 @@ Material Requirement
 🔌 Revit API
 📊 BIM Automation
 
+---
 ## 📋 Requirements
 
 Before using the tool, make sure you have:
@@ -141,6 +145,8 @@ Before using the tool, make sure you have:
 Autodesk Revit
 pyRevit
 A Revit model containing the required piping information
+
+---
 
 ## 🚀 Installation
 
@@ -154,7 +160,8 @@ Reload pyRevit.
 
 Open the Glue Calculator from the Revit ribbon.
 
-▶️ Usage
+---
+## ▶️ Usage
 
 ## 🌎 Overall Model
 
@@ -166,6 +173,7 @@ Select Overall Model Glue Calculation.
 
 Review the calculated quantities.
 
+---
 ## 🔧 System-wise
 
 Launch Glue Calculator.
@@ -174,6 +182,7 @@ Select the required Revit system type.
 Run the calculation.
 Review the filtered results.
 
+---
 ## 📸 Example
 
 Add screenshots of the tool here.
@@ -182,6 +191,7 @@ Add screenshots of the tool here.
 📷 System Selection
 📷 Calculation Results
 
+---
 ## 🎯 Project Goals
 
 The main goals of this project are:
@@ -196,7 +206,7 @@ The main goals of this project are:
 
 🤖 Demonstrate practical BIM automation using Python
 
-
+---
 ## 🔮 Future Improvements
 
 Possible future enhancements include:
@@ -210,12 +220,14 @@ Possible future enhancements include:
 🧩 Support for additional fitting types
 ⚡ Performance improvements for large Revit models
 
+---
 ## ⚠️ Disclaimer
 
 This tool is intended to assist with BIM-based quantity calculations.
 
 Final quantities should always be checked against the project's approved specifications, manufacturer recommendations and construction requirements before procurement or site use.
 
+---
 ## 👨‍💻 Author
 Akshay Pawar
 
