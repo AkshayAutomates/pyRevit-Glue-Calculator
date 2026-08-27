@@ -110,7 +110,7 @@ Total Net Glue
       =
 Gross Total Glue Required
 
-**🏢 BIM Automation Use Case**
+## 🏢 BIM Automation Use Case
 
 This project demonstrates how information already available inside a BIM model can be used for automated construction quantity calculations.
 Instead of performing a manual take-off:
