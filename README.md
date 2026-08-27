@@ -200,7 +200,7 @@ The main goals of this project are:
 ## 🔮 Future Improvements
 
 Possible future enhancements include:
----
+
 📊 Excel export
 📄 PDF reporting
 ⚙️ User-configurable glue values
@@ -209,7 +209,7 @@ Possible future enhancements include:
 📈 Calculation history
 🧩 Support for additional fitting types
 ⚡ Performance improvements for large Revit models
----
+
 ## ⚠️ Disclaimer
 
 This tool is intended to assist with BIM-based quantity calculations.
