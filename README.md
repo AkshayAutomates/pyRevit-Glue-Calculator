@@ -191,5 +191,6 @@ This tool is intended to assist with BIM-based quantity calculations.
 Final quantities should always be checked against the project's approved specifications, manufacturer recommendations and construction requirements before procurement or site use.
 
 ## 👨‍💻 Author
-Akshay
+Akshay Pawar
+
 Lead BIM Engineer | BIM Automation
