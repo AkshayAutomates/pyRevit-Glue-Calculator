@@ -183,13 +183,21 @@ Run the calculation.
 Review the filtered results.
 
 ---
-## 📸 Example
 
-Add screenshots of the tool here.
+## 📸 Screenshots
 
-📷 Revit Glue Calculator
-📷 System Selection
-📷 Calculation Results
+### 📷 Revit Glue Calculator
+<img width="354" height="229" alt="image" src="https://github.com/user-attachments/assets/ebce66b5-2d5a-475d-8522-c657abed430e" />
+
+### 📷 Options to calculate
+<img width="496" height="391" alt="image" src="https://github.com/user-attachments/assets/62721d36-09d3-413c-a499-2acd4ac84567" />
+
+### 📷 Select System Window
+<img width="899" height="603" alt="image" src="https://github.com/user-attachments/assets/7085e6aa-2747-469f-8588-45ca3cfc61a7" />
+
+### 📷 Calculation Results
+![Uploading image.png…]()
+
 
 ---
 ## 🎯 Project Goals
