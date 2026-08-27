@@ -137,6 +137,7 @@ Material Requirement
 ## 📋 Requirements
 
 Before using the tool, make sure you have:
+
 Autodesk Revit
 pyRevit
 A Revit model containing the required piping information
@@ -144,9 +145,13 @@ A Revit model containing the required piping information
 ## 🚀 Installation
 
 Install pyRevit.
+
 Clone or download this repository.
+
 Add the pyRevit extension to your pyRevit extensions location.
+
 Reload pyRevit.
+
 Open the Glue Calculator from the Revit ribbon.
 
 ▶️ Usage
@@ -154,8 +159,11 @@ Open the Glue Calculator from the Revit ribbon.
 ## 🌎 Overall Model
 
 Open your Revit project.
+
 Launch Glue Calculator.
+
 Select Overall Model Glue Calculation.
+
 Review the calculated quantities.
 
 ## 🔧 System-wise
@@ -192,7 +200,7 @@ The main goals of this project are:
 ## 🔮 Future Improvements
 
 Possible future enhancements include:
-
+---
 📊 Excel export
 📄 PDF reporting
 ⚙️ User-configurable glue values
@@ -201,7 +209,7 @@ Possible future enhancements include:
 📈 Calculation history
 🧩 Support for additional fitting types
 ⚡ Performance improvements for large Revit models
-
+---
 ## ⚠️ Disclaimer
 
 This tool is intended to assist with BIM-based quantity calculations.
