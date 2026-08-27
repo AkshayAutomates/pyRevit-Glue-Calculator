@@ -196,7 +196,8 @@ Review the filtered results.
 <img width="899" height="603" alt="image" src="https://github.com/user-attachments/assets/7085e6aa-2747-469f-8588-45ca3cfc61a7" />
 
 ### 📷 Calculation Results
-![Uploading image.png…]()
+<img width="899" height="603" alt="image" src="https://github.com/user-attachments/assets/99be24c2-2881-4019-a7ac-af8a1ef1683d" />
+
 
 
 ---
