@@ -126,6 +126,7 @@ Quantity Calculation
 Material Requirement
 
 ## 🛠️ Technologies
+
 🏗️ Autodesk Revit
 🐍 Python
 ⚙️ pyRevit
@@ -133,12 +134,14 @@ Material Requirement
 📊 BIM Automation
 
 ## 📋 Requirements
+
 Before using the tool, make sure you have:
 Autodesk Revit
 pyRevit
 A Revit model containing the required piping information
 
 ## 🚀 Installation
+
 Install pyRevit.
 Clone or download this repository.
 Add the pyRevit extension to your pyRevit extensions location.
@@ -146,13 +149,16 @@ Reload pyRevit.
 Open the Glue Calculator from the Revit ribbon.
 
 ▶️ Usage
+
 ## 🌎 Overall Model
+
 Open your Revit project.
 Launch Glue Calculator.
 Select Overall Model Glue Calculation.
 Review the calculated quantities.
 
 ## 🔧 System-wise
+
 Launch Glue Calculator.
 Select System-wise Glue Calculation.
 Select the required Revit system type.
@@ -168,6 +174,7 @@ Add screenshots of the tool here.
 📷 Calculation Results
 
 ## 🎯 Project Goals
+
 The main goals of this project are:
 🚀 Reduce manual BIM quantity take-off
 ⏱️ Save calculation time
@@ -176,6 +183,7 @@ The main goals of this project are:
 🤖 Demonstrate practical BIM automation using Python
 
 ## 🔮 Future Improvements
+
 Possible future enhancements include:
 📊 Excel export
 📄 PDF reporting
@@ -187,6 +195,7 @@ Possible future enhancements include:
 ⚡ Performance improvements for large Revit models
 
 ## ⚠️ Disclaimer
+
 This tool is intended to assist with BIM-based quantity calculations.
 Final quantities should always be checked against the project's approved specifications, manufacturer recommendations and construction requirements before procurement or site use.
 
