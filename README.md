@@ -186,14 +186,14 @@ Review the filtered results.
 
 ## 📸 Screenshots
 
-### 📷 Revit Glue Calculator
-<img width="354" height="229" alt="image" src="https://github.com/user-attachments/assets/ebce66b5-2d5a-475d-8522-c657abed430e" />
+### 📷 Glue Calculator Panel button
+<img width="93" height="71" alt="image" src="https://github.com/user-attachments/assets/359ddf15-3569-4dd0-b48c-162845dc04f7" />
 
 ### 📷 Options to calculate
-<img width="496" height="391" alt="image" src="https://github.com/user-attachments/assets/62721d36-09d3-413c-a499-2acd4ac84567" />
+<img width="354" height="229" alt="image" src="https://github.com/user-attachments/assets/ebce66b5-2d5a-475d-8522-c657abed430e" />
 
 ### 📷 Select System Window
-<img width="899" height="603" alt="image" src="https://github.com/user-attachments/assets/7085e6aa-2747-469f-8588-45ca3cfc61a7" />
+<img width="496" height="391" alt="image" src="https://github.com/user-attachments/assets/62721d36-09d3-413c-a499-2acd4ac84567" />
 
 ### 📷 Calculation Results
 <img width="899" height="603" alt="image" src="https://github.com/user-attachments/assets/99be24c2-2881-4019-a7ac-af8a1ef1683d" />
