@@ -94,7 +94,7 @@ Calculate 10% Allowance
      ↓
 Gross Glue Requirement
 
-**📐 Glue Calculation**
+## 📐 Glue Calculation
 
 For applicable connections, the tool calculates:
 
