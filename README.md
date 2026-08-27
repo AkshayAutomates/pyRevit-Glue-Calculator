@@ -94,7 +94,7 @@ Calculate 10% Allowance
      ↓
 Gross Glue Requirement
 
-📐 Glue Calculation
+**📐 Glue Calculation**
 
 For applicable connections, the tool calculates:
 
@@ -109,10 +109,10 @@ Total Net Glue
 10% Additional Glue
       =
 Gross Total Glue Required
-🏢 BIM Automation Use Case
+
+**🏢 BIM Automation Use Case**
 
 This project demonstrates how information already available inside a BIM model can be used for automated construction quantity calculations.
-
 Instead of performing a manual take-off:
 
 Revit Model
@@ -124,7 +124,8 @@ Python Automation
 Quantity Calculation
      ↓
 Material Requirement
-🛠️ Technologies
+
+**🛠️ Technologies**
 🏗️ Autodesk Revit
 🐍 Python
 ⚙️ pyRevit
@@ -137,44 +138,46 @@ Before using the tool, make sure you have:
 Autodesk Revit
 pyRevit
 A Revit model containing the required piping information
+
 🚀 Installation
 Install pyRevit.
 Clone or download this repository.
 Add the pyRevit extension to your pyRevit extensions location.
 Reload pyRevit.
 Open the Glue Calculator from the Revit ribbon.
+
 ▶️ Usage
-🌎 Overall Model
+**🌎 Overall Model**
 Open your Revit project.
 Launch Glue Calculator.
 Select Overall Model Glue Calculation.
 Review the calculated quantities.
-🔧 System-wise
+
+**🔧 System-wise**
 Launch Glue Calculator.
 Select System-wise Glue Calculation.
 Select the required Revit system type.
 Run the calculation.
 Review the filtered results.
-📸 Example
+
+**📸 Example**
 
 Add screenshots of the tool here.
 
 📷 Revit Glue Calculator
 📷 System Selection
 📷 Calculation Results
-🎯 Project Goals
 
+**🎯 Project Goals**
 The main goals of this project are:
-
 🚀 Reduce manual BIM quantity take-off
 ⏱️ Save calculation time
 📊 Improve quantity consistency
 🏗️ Use Revit model data more effectively
 🤖 Demonstrate practical BIM automation using Python
-🔮 Future Improvements
 
+**🔮 Future Improvements**
 Possible future enhancements include:
-
 📊 Excel export
 📄 PDF reporting
 ⚙️ User-configurable glue values
@@ -189,7 +192,6 @@ This tool is intended to assist with BIM-based quantity calculations.
 
 Final quantities should always be checked against the project's approved specifications, manufacturer recommendations and construction requirements before procurement or site use.
 
-👨‍💻 Author
-
+**👨‍💻 Author**
 Akshay
-BIM Engineer | BIM Automation
+Lead BIM Engineer | BIM Automation
