@@ -114,7 +114,7 @@ Gross Total Glue Required
 
 This project demonstrates how information already available inside a BIM model can be used for automated construction quantity calculations.
 Instead of performing a manual take-off:
-
+```
 Revit Model
      ↓
 BIM Data
@@ -124,6 +124,7 @@ Python Automation
 Quantity Calculation
      ↓
 Material Requirement
+```
 
 ## 🛠️ Technologies
 
@@ -176,15 +177,22 @@ Add screenshots of the tool here.
 ## 🎯 Project Goals
 
 The main goals of this project are:
+
 🚀 Reduce manual BIM quantity take-off
+
 ⏱️ Save calculation time
+
 📊 Improve quantity consistency
+
 🏗️ Use Revit model data more effectively
+
 🤖 Demonstrate practical BIM automation using Python
+
 
 ## 🔮 Future Improvements
 
 Possible future enhancements include:
+
 📊 Excel export
 📄 PDF reporting
 ⚙️ User-configurable glue values
@@ -197,6 +205,7 @@ Possible future enhancements include:
 ## ⚠️ Disclaimer
 
 This tool is intended to assist with BIM-based quantity calculations.
+
 Final quantities should always be checked against the project's approved specifications, manufacturer recommendations and construction requirements before procurement or site use.
 
 ## 👨‍💻 Author
